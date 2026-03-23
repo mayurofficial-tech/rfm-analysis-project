@@ -65,7 +65,7 @@ Customers are grouped into:
 
 ## 📊 Dashboard Preview
 
-![RFM Dashboard](images/image.png)
+![RFM Dashboard](image/image.png)
 
 ---
 
