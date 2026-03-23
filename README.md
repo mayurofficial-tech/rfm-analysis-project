@@ -73,22 +73,7 @@ Customers are grouped into:
 
 * Majority of customers fall under **Engaged & Promising segments**
 * Very few customers qualify as **Champions**
-* Dataset shows **limited repeat purchases**, so segmentation is mainly influenced by recency
 
----
-
-## ⚠️ Limitations
-
-* Dataset contains mostly single transactions per customer
-* Frequency and Monetary variation is limited
-
----
-
-## 💡 Future Improvements
-
-* Add Customer Lifetime Value (CLV)
-* Use real-world dataset with repeat customers
-* Enhance dashboard interactivity
 
 ---
 
